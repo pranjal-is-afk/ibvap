@@ -4,7 +4,6 @@ backend/.venv/
 **/*.pyc
 .pytest_cache/
 frontend/node_modules/
-frontend/src/
 frontend/dist/
 db/
 evidence/
